@@ -1,3 +1,5 @@
+// https://doc.rust-lang.org/stable/rust-by-example/
+
 // `Derive` 
 // the `fmt::Debug` implementation  for `Structure`. 
 // `Structure` is a structure, 
